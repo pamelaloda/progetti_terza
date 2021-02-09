@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604508439 source:c:\users\pamel\desktop\i.i.s. castelli\3^ai\01_informatica\programmazione\craps\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
